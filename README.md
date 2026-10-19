@@ -1,2 +1,2 @@
 # CODERS_ARENA
-Anonline coding practice platform
+An online coding practice platform
